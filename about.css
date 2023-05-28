@@ -1,0 +1,29 @@
+header{
+    font-size: xx-large;
+    background-color: rgb(255, 232, 232);
+}
+body{
+    background-color: bisque;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project {
+    font-family: 'Raleway', sans-serif;
+  
+}
+
+.project p{
+    font-size: 1.3em;
+  font-weight: 100;
+  margin: 0 0 1em;
+}
+form{
+    width: 90%;
+    max-width: 600px;
+
+}
